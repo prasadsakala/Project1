@@ -1,0 +1,13 @@
+touch
+Create file: touch file1 file2 file3
+Cat command
+Read File: cat file1
+Create a file with new data: cat > file1   ctrl+d
+Append a file with existing data: cat >> file1   ctrl+d
+VI
+‘vi filename
+‘esc i –insert mode
+‘esc :w – save
+‘esc :q – quit
+‘esc :wq – save & quit
+
